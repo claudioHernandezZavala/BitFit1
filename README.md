@@ -13,8 +13,8 @@ The following **required** functionality is completed:
 - [x] **At least one health metric is tracked (based on user input)**
   - Chosen metric(s): `[Food and calories]`
 - [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [ ] **New entries are saved in a database and then updated in the RecyclerView**
-- [ ] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
+- [x] **New entries are saved in a database and then updated in the RecyclerView**
+- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
  
 The following **optional** features are implemented:
 
@@ -35,9 +35,6 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-cannot initialize my database, new updates on my android studio keeps saying that there are missing libraries and dependencies and room library won't work, my build gradle keeps crashing.
-Implentented UI but cannot initialize project correctly because of the library issues.
-I will update it in the next 48 hours so it can be re evaluated 
 
 ## License
 
