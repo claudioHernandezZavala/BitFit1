@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![bitift walkthorugh](https://user-images.githubusercontent.com/101302200/228133734-2040837b-5e7a-4012-b9ee-bbf723408f5a.gif)
+![bitift walkthorugh2](https://user-images.githubusercontent.com/101302200/228722986-baf53bdf-9ff9-405e-aa53-75eca917639c.gif)
+
 
 
 ## Notes
